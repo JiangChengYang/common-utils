@@ -168,7 +168,6 @@ public class ExcelParser<T> {
             }
         }
 
-
     }
 
     public void error(int rowIndex, String message) {
